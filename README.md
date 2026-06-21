@@ -2,44 +2,34 @@
 
 A comprehensive guide to sustainable commuting options in Boulder, Colorado — walking and biking routes, travel times, and tips to help residents make greener travel choices.
 
-## Your Commute: 45 Oak Avenue to 1800 Broadway, Boulder
+## Purpose
 
-| Mode | Distance | Duration | Notes |
-|------|----------|----------|-------|
-| Walking | 4.03 km (2.5 mi) | ~50 min | Flat route via downtown |
-| Biking | 4.03 km (2.5 mi) | ~8 min | Bike-friendly streets |
+The Boulder Green Commute Guide helps residents of Boulder, CO explore walking and biking as sustainable alternatives to driving. By sharing commute analysis data and practical tips, we aim to reduce car dependency, lower carbon emissions, and promote healthier lifestyles.
 
-## Route Overview
+## What's Included
 
-1. Oak Avenue - Start from home, head south
-2. 19th Street - Major north-south arterial
-3. 20th Street - Continue through downtown
-4. Pearl Street - Downtown pedestrian core
-5. 18th Street - Continue to downtown
-6. Canyon Boulevard - Scenic path along Boulder Creek
+- [Route Analysis](#route-analysis)
+- [Walking Route Details](#walking-route-details)
+- [Biking Route Details](#biking-route-details)
+- [Sustainability Impact](#sustainability-impact)
+- [Commuter Tips](#commuter-tips)
+- [Resources](#resources)
 
-## Sustainability Impact
+## Route Analysis
 
-### Biking vs Driving (per round trip)
-- CO2 saved: ~1.5 kg
-- Annual savings (250 days): ~375 kg = planting ~6 trees
+This guide is based on real data from OpenStreetMap, analyzed using the OSM Tools MCP.
 
-### Walking vs Driving (per round trip)
-- CO2 saved: ~1.5 kg
-- Health: ~200 calories burned per trip
+**Sample Commute:** 45 Oak Avenue to 1800 Broadway, Boulder
 
-## Quick Comparison
+| Mode | Distance | Duration | CO2 Saved (vs. car) |
+|------|----------|----------|---------------------|
+| Walking | 4.03 km (2.5 mi) | ~50 min | ~1.5 kg per round trip |
+| Biking | 4.03 km (2.5 mi) | ~8 min | ~1.5 kg per round trip |
 
-| Metric | Walking | Biking | Driving |
-|--------|---------|--------|---------|
-| Time (one way) | ~50 min | ~8 min | ~12 min |
-| CO2 (round trip) | 0 kg | 0 kg | ~1.5 kg |
-| Cost | Free | Free | ~$3-5 |
+## Contributing Your Commute
 
-## Resources
-- City of Boulder Transportation
-- Boulder B-cycle Bike Share
-- Boulder Creek Path
+Want to add your commute analysis? See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
----
-Data from OpenStreetMap. Last updated: 2026-06-21
+## License
+
+This project is open source. See the LICENSE file for details.
